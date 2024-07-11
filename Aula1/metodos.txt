@@ -1,0 +1,56 @@
+                                N1
+Sala de aula:  2,0
+Prova individual: 6,0
+Trabalho em grupo: 4,0
+
+
+                                Ementa
+
+                                1ª Unidade
+
+-Técnicas de recursão
+-Design Techniques
+-Complexidade
+
+                                2ª Unidade
+
+-Árvore AVL
+-árvore 23
+-Warp
+-Hash
+
+
+                                3ª Unidade
+
+   Grifos
+
+-Estruturas
+-Coloração
+-Isomorfismo
+-Percursos
+
+                                Trabalho em grupo
+
+-Integrantes(MAX 4)
+-Papéis dos Integrantes
+
+1) Integração com GIT/GITHUB
+2) Codificador
+3) Testador
+4) Redator
+
+-Grupo com 1 integrantes
+
+1) Integrante realiza todos os Papéis
+
+Grupo com 2 integrantes
+
+1) Integração com GIT/GITHUB e Codificador
+2) Testador e Redator
+
+
+Grupo com 3 integrantes
+
+1) Integração com GIT/GITHUB
+2) Codificador e Testador
+3) Redator
