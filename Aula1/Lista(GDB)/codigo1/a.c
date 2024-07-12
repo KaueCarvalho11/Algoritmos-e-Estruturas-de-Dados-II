@@ -1,4 +1,4 @@
-/* a) Depure o c ́odigo para descobrir quantas vezes o fibonacci(5)  ́e calculado (requisitado).
+/* a) Depure o código para descobrir quantas vezes o fibonacci(5) ́e calculado (requisitado).
 */
 
 #include<stdio.h>
@@ -38,3 +38,5 @@ Starting program: C:\Users\kauec\Documents\ProgramaþÒo\Estruturas de  Dados II
 (gdb) print $count
 $1 = 89
 */
+
+/* Ou seja, fibonacci(5) é calculado 89 vezes*/
